@@ -1,0 +1,38 @@
+_repo: Les-trois-hommes-en-Allemagne_35285
+_version: 0.1.0
+alternative_title: Three men on the bummel. French
+contributor:
+  translator:
+    agent_name: Seligman, Georges
+    gutenberg_agent_id: '37576'
+    url: http://www.gutenberg.org/2009/agents/37576
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jerome, Jerome K. (Jerome Klapka)
+    alias: Jerome, Jerome Klapka
+    birthdate: 1859
+    deathdate: 1927
+    gutenberg_agent_id: '173'
+    url: http://www.gutenberg.org/2009/agents/173
+    wikipedia: http://en.wikipedia.org/wiki/Jerome_K._Jerome
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2011-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35285'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'British -- Germany -- Fiction'
+- !lcsh 'Humorous stories'
+- !lcsh 'Bicycle touring -- Fiction'
+- !lcsh 'Black Forest (Germany) -- Fiction'
+- !lcc 'PR'
+title: Les trois hommes en Allemagne
+url: http://www.gutenberg.org/ebooks/35285
